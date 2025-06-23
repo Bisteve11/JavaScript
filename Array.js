@@ -45,6 +45,8 @@
 // cars.splice(1,2, 'Maybach', 'Audi');
 // console.log(cars);
 
-// let germanCars = cars.slice(2,3);
-// console.log(cars);
-// console.log(germanCars);
+let germanCars = cars.slice(2,3);
+console.log(cars);
+console.log(germanCars);
+
+acvsahkbss
